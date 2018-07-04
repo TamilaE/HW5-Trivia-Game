@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #ecf39e;
+}
+
+.btn {
+    background-color: #90a955;
+    color: #ecf39e;
+    border-color:#31572c;
+}
+
+h1 {
+    color: #31572c;
+}
+
+.jumbotron {
+    background-image: #ecf39e;
+    color: #31572c;
+}  
