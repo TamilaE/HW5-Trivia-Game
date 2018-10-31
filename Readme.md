@@ -1,6 +1,6 @@
 # **Trivia Game! (BASIC)**
 ## Overview
-### This is a Trivia game using JavaScript for the logic and jQuery to manipulate HTML. This site was built using [Check it out!](https://tamilae.github.io/Trivia-Game-Basic/).
+### This is a Trivia game using JavaScript for the logic and jQuery to manipulate HTML. This site was built using github pages! [Check it out!](https://tamilae.github.io/Trivia-Game-Basic/).
 - By playing this Disney Trivia game test your knowelede about Disney cartoons.
 
 ## How to play:
