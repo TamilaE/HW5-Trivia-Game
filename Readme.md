@@ -1,9 +1,9 @@
-#**Trivia Game! (BASIC)**
+# **Trivia Game! (BASIC)**
 ## Overview
-###This is a Trivia game using JavaScript for the logic and jQuery to manipulate HTML.
+### This is a Trivia game using JavaScript for the logic and jQuery to manipulate HTML.
 - By playing this Disney Trivia game test your knowelede about Disney cartoons.
 
-##How to play:
+## How to play:
 - To play click the START button and the timer will start.
 - Then the question and multiple choices(4) will apear. 
 - You have 30 seconds to answer each question.
